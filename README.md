@@ -4,7 +4,7 @@
 
 <h2>Introduction</h2>
 
-<b>Svelte True CSS Modules</b> — is a preprocessor CSS modules for Svelte.
+<b>Svelte True CSS Modules</b> is a preprocessor CSS modules for Svelte.
 
 [Learn more about css modules](https://www.patreon.com/evanyou)
 
