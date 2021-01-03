@@ -1,0 +1,19 @@
+{
+  "name": "@naumstory/svelte-true-css-modules",
+  "version": "1.0.0",
+  "description": "Svelte preprocessor for CSS modules",
+  "main": "src/index.js",
+  "author": {
+    "name": "Dmitry Naumenkov",
+    "email": "dm.naumenkov@yandex.ru",
+    "url": "https://github.com/naumstory"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "node-html-parser": "^2.0.1",
+    "postcss": "^8.2.2",
+    "postcss-modules": "^4.0.0",
+    "svelte-preprocess": "^4.6.1"
+  },
+  "type": "module"
+}
