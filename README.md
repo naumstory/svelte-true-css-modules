@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="160" src="logo.png" alt="Svelte True CSS Modules Logo" />
+    <img width="240" src="logo.png" alt="Svelte True CSS Modules Logo" />
 </p>
 
 <h2>Introduction</h2>
