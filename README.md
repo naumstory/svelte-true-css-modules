@@ -6,7 +6,7 @@
 
 <b>Svelte True CSS Modules</b> is a preprocessor CSS modules for Svelte.
 
-[Learn more about css modules](https://www.patreon.com/evanyou)
+[Learn more about css modules](https://github.com/css-modules/css-modules)
 
 <h2>Example</h2>
 
